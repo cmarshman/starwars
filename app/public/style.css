@@ -1,0 +1,13 @@
+body{    
+    background-image: url('images/light_speed.jpg');
+    background-attachment: fixed;
+    width: 100%;
+    margin: 0 auto;
+    background-position: center;
+    padding: 0;
+}
+
+#large_container{
+    background-color: #363636;
+    color: #ffffff
+}
